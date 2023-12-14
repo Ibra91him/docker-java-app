@@ -34,16 +34,13 @@ Ensure your system is equipped with Docker and Docker Compose.
 
    ```
    
-Watch as the containers seamlessly build and launch based on the configurations in docker-compose.yml.
-
-Access the Java application through your browser at http://localhost:8080
-
-
-
-
-
- 
-
-
-
-
+     Watch as the containers seamlessly build and launch based on the configurations in docker-compose.yml.
+     
+     Access the Java application through your browser at http://localhost:8080
+     
+     ## Cleanup
+     
+     When you're done, gracefully stop and remove the containers:
+     
+         docker-compose down
+    
