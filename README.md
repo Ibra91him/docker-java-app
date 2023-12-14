@@ -38,9 +38,9 @@ Ensure your system is equipped with Docker and Docker Compose.
      
      Access the Java application through your browser at http://localhost:8080
      
-     ## Cleanup
+## Cleanup
      
-     When you're done, gracefully stop and remove the containers:
+  When you're done, gracefully stop and remove the containers:
      
-         docker-compose down
+    docker-compose down
     
